@@ -1,4 +1,4 @@
-package com.demo
+package com.demo.basics
 
 object ExpressionDemo extends App{
 
